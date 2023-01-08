@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.codewars.WeightSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-07T21:15:38" hostname="fedora" time="0.017">
+  <properties/>
+  <testcase name="orderWeight()" classname="org.codewars.WeightSortTest" time="0.017"/>
+  <system-out><![CDATA[59544965313
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
