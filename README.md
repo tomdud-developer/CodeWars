@@ -18,4 +18,9 @@ This is repostiory where I store my solutions for CodeWars tasks in Java languag
     <b>link:</b> https://www.codewars.com/kata/52b7ed099cdc285c300001cd <br>
     <b>difficulty:</b> 4
     </li>
+    <li>
+    <h4><b>Evaluate mathematical expression</b></h4>
+    <b>link:</b> https://www.codewars.com/kata/52a78825cdfc2cfc87000005 <br>
+    <b>difficulty:</b> 2
+    </li>
 </ul> 
