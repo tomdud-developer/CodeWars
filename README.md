@@ -1,8 +1,15 @@
 # CodeWars
+
 This is repostiory where I store my solutions for CodeWars tasks in Java language.
 <br>
-<b>Total solved: 55. </b>List of Cata solved from 08.01.2023:
+<b>Total solved: 57. </b>List of Cata solved from 08.01.2023:
+
 <ul>
+    <li>
+    <h4><b>Alphabetic anagrams</b></h4>
+    <b>link:</b> https://www.codewars.com/kata/53e57dada0cb0400ba000688 <br>
+    <b>difficulty:</b> 3
+    </li>
     <li>
     <h4><b>Weight for weight</b></h4>
     <b>link:</b> https://www.codewars.com/kata/55c6126177c9441a570000cc <br>
@@ -28,4 +35,4 @@ This is repostiory where I store my solutions for CodeWars tasks in Java languag
     <b>link:</b> https://www.codewars.com/kata/53f40dff5f9d31b813000774 <br>
     <b>difficulty:</b> 4
     </li>
-</ul> 
+</ul>
