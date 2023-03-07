@@ -2,9 +2,15 @@
 
 This is repostiory where I store my solutions for CodeWars tasks in Java language.
 <br>
-<b>Total solved: 57. </b>List of Cata solved from 08.01.2023:
+<b>Total solved: 58. </b>List of Cata solved from 08.01.2023:
 
 <ul>
+
+    <li>
+    <h4><b>Sum Strings as Numbers</b></h4>
+    <b>link:</b> https://www.codewars.com/kata/5324945e2ece5e1f32000370<br>
+    <b>difficulty:</b> 4
+    </li>
     <li>
     <h4><b>Alphabetic anagrams</b></h4>
     <b>link:</b> https://www.codewars.com/kata/53e57dada0cb0400ba000688 <br>
