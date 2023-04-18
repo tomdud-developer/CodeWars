@@ -1,6 +1,12 @@
 # CodeWars
 
-This is repostiory where I store my solutions for CodeWars tasks in Java language.
+This is a repository where I keep my Java solutions for the coding challenges on CodeWars.
+
+CodeWars is a web-based platform for practicing and improving programming skills through the completion of coding challenges called "Katas."
+A Kata is a coding challenge that presents a problem for the user to solve using their programming skills. Each Kata is accompanied by a set of requirements, such as input/output specifications and constraints on the running time and space complexity of the solution. The user is then tasked with writing code that satisfies these requirements and passes a set of automated tests.
+
+The difficulty level of each Kata is determined by its "kyu" rating, with lower ratings indicating easier challenges and higher ratings indicating more difficult challenges. The Kyu ratings range from 8 Kyu (the easiest) to 1 Kyu (the most difficult). 
+
 <br>
 <b>Total solved: 58. </b>List of Cata solved from 08.01.2023:
 
